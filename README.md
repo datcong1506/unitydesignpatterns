@@ -1,2 +1,0 @@
-# unitydesignpatterns
-my designpattern! =))
